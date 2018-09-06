@@ -1,0 +1,15 @@
+.user-content {
+  height: 130px;
+}
+
+.isMarked {
+  font-weight: bold;
+  color: darkgoldenrod !important;
+}
+
+
+.hovered {
+  transform: scale(1.05);
+  box-shadow: 0 0 10px rgba(0,0,0,.5);
+  transition: .5s all;
+}
